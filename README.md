@@ -1,70 +1,36 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />, I'm Navjinder Singh</h1>
-<h3 align="center">Turning Curiosity Into Data Projects</h3>
+# Hi 👋, I'm Navjinder Singh
 
-<p align="center">
-I’m a developing Data Science practitioner with a strong interest in Python, Machine Learning, and analytical problem-solving.  
-I enjoy hands-on learning, exploring real datasets, and applying data-driven techniques to understand patterns and build useful ML solutions.  
-I’m continuously improving my workflow by learning new tools, strengthening fundamentals, and experimenting with how data science solves real-world challenges.
+### Turning Curiosity Into Data Projects
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=navjindersingh01&label=Profile views&color=0e75b6&style=flat" alt="navjindersingh01" /> </p>
+
+- 🔭 I'm currently working on **Artificial Neural Networks**
+
+- 🌱 I'm currently learning **TensorFlow & Deep Learning Algorithms**
+
+- 👯 I'm looking to collaborate on **Machine Learning based project**
+
+- 💬 Ask me about **python, machine learning and ANN's**
+
+- 📫 How to reach me **navjindersingh.in@gmail.com**
+
+- ⚡ Fun fact **I think I love to do things perfectly.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/navjindersingh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="navjindersingh01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/navjindersingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navjindersingh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/31804194/jinder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31804194/jinder" height="30" width="40" /></a>
+<a href="https://hackerrank.com/@singhnavjinder11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@singhnavjinder11" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/navjindersingh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="navjindersingh01" height="30" width="40" /></a>
+<a href="https://discord.gg/WnhPm6N7mE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WnhPm6N7mE" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
 
-## 🔍 About Me
-- 🌍 Based in **Sirsa, India**  
-- ✉️ Email: **navjindersingh.in@gmail.com**  
-- 🧠 Currently learning **TensorFlow & Deep Learning**  
-- 🤝 Open to collaboration on **Machine Learning experiments** & **Python automation**  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navjindersingh01&show_icons=true&locale=en&layout=compact" alt="navjindersingh01" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navjindersingh01&show_icons=true&locale=en" alt="navjindersingh01" /></p>
 
-## 🛠️ Skills
-<p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="60" height="60" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" width="60" height="60" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="60" height="60" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="60" height="60" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="60" height="60" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="60" height="60" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="60" height="60" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="60" height="60" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="60" height="60" /></a>
-</p>
-
----
-
-## 🌐 Socials
-<p align="center">
-  <a href="https://github.com/navjindersingh01"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></a>
-  <a href="https://www.linkedin.com/in/navjindersingh"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a>
-  <a href="https://discord.com/users/WnhPm6N7mE"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="50" height="50" /></a>
-  <a href="https://www.stackoverflow.com/users/31804194"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="50" height="50" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <a href="http://www.github.com/navjindersingh01">
-    <img src="https://github-readme-stats.vercel.app/api?username=navjindersingh01&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="180" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/navjindersingh01">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navjindersingh01&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="180" />
-  </a>
-</p>
-
----
-
-## 📌 Top Repository
-<p align="center">
-  <a href="https://github.com/navjindersingh01/Chaa-Choo-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navjindersingh01&repo=Chaa-Choo-Project&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="45%" />
-  </a>
-</p>
-
----
-
-<p align="center"><b>✨ Thanks for visiting — always learning, always building! ✨</b></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navjindersingh01&" alt="navjindersingh01" /></p>
