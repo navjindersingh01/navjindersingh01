@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #6C63FF; }
+    .stat { font: 600 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .subtext { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+  </style>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#0D1117" stroke="#30363d"/>
+  <text x="247.5" y="40" text-anchor="middle" class="header">GitHub Streak Stats</text>
+  <text x="82.5" y="95" text-anchor="middle" class="stat">-</text>
+  <text x="82.5" y="115" text-anchor="middle" class="subtext">Total Contributions</text>
+  <text x="247.5" y="95" text-anchor="middle" class="stat">-</text>
+  <text x="247.5" y="115" text-anchor="middle" class="subtext">Current Streak</text>
+  <text x="412.5" y="95" text-anchor="middle" class="stat">-</text>
+  <text x="412.5" y="115" text-anchor="middle" class="subtext">Longest Streak</text>
+  <text x="247.5" y="165" text-anchor="middle" class="subtext">Placeholder — run workflow to update</text>
+</svg>

@@ -1,0 +1,28 @@
+name: Update Streak
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch Streak Stats
+        run: |
+          curl -L "https://github-readme-streak-stats.herokuapp.com/?user=navjindersingh01&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B" \
+            -o assets/streak/streak.svg
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/streak/streak.svg
+          git diff --staged --quiet || git commit -m "chore: update streak stats"
+          git push

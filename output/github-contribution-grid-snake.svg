@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #6C63FF; }
+    .subtitle { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+  </style>
+  <rect x="0.5" y="0.5" width="799" height="199" rx="4.5" fill="#0D1117" stroke="#30363d"/>
+  <text x="400" y="90" text-anchor="middle" class="title">🐍 Contribution Snake</text>
+  <text x="400" y="120" text-anchor="middle" class="subtitle">Placeholder — run Snake workflow to generate</text>
+</svg>
