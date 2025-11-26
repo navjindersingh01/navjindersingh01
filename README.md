@@ -148,7 +148,7 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
   <a href="https://twitter.com/navjindersingh01" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:navjinder@example.com">
+  <a href="mailto:your.email@domain.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://dev.to/navjindersingh01" target="_blank">
@@ -179,11 +179,7 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
-<!-- Snake Animation -->
+<!-- Snake Animation - Contribution Graph -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/navjindersingh01/navjindersingh01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
