@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=640&lines=Transforming+data+into+actionable+insights;Building+robust+ML+solutions;Learning+every+day" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Transforming+data+into+actionable+insights;Building+robust+ML+solutions;Learning+every+day" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ I am Navjinder Singh — a Data Scientist focused on building reliable machine-l
 
 ### Skills & Technologies
 
-<p align="justify">
+<p align="center">
   <img src="assets/logos/python.svg" height="40" alt="Python" title="Python" />&nbsp;
   <img src="assets/logos/r.svg" height="40" alt="R" title="R" />&nbsp;
   <img src="assets/logos/mysql.svg" height="40" alt="SQL" title="SQL" />&nbsp;
@@ -91,7 +91,7 @@ I am Navjinder Singh — a Data Scientist focused on building reliable machine-l
 
 ### Connect With Me
 
-<p align="justify">
+<p align="center">
   <a href="https://www.linkedin.com/in/navjindersingh" target="_blank"><img src="assets/logos/linkedin.svg" height="36" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;
   <a href="https://github.com/navjindersingh01" target="_blank"><img src="assets/logos/github.svg" height="36" alt="GitHub" title="GitHub" /></a>&nbsp;
   <a href="mailto:navjindersingh.in@gmail.com"><img src="assets/logos/gmail.svg" height="36" alt="Email" title="Email" /></a>&nbsp;
