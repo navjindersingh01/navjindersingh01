@@ -17,7 +17,7 @@
 
 </td>
 <td width="200" align="right">
-  <img src="assets/images/supercomputer.gif" width="180" alt="AI Supercomputer" />
+  <img src="assets/logos/python.svg" width="180" alt="Python" />
 </td>
 </tr>
 </table>
@@ -36,22 +36,22 @@ I am Navjinder Singh — a Data Scientist focused on building reliable machine-l
 
 ### Skills & Technologies
 
-<p align="left">
-  <img src="assets/logos/python.svg" height="40" alt="Python" title="Python" />
-  <img src="assets/logos/r.svg" height="40" alt="R" title="R" />
-  <img src="assets/logos/mysql.svg" height="40" alt="SQL" title="SQL" />
-  <img src="assets/logos/tensorflow.svg" height="40" alt="TensorFlow" title="TensorFlow" />
-  <img src="assets/logos/keras.svg" height="40" alt="Keras" title="Keras" />
-  <img src="assets/logos/scikitlearn.svg" height="40" alt="Scikit-Learn" title="Scikit-Learn" />
-  <img src="assets/logos/pytorch.svg" height="40" alt="PyTorch" title="PyTorch" />
-  <img src="assets/logos/pandas.svg" height="40" alt="Pandas" title="Pandas" />
-  <img src="assets/logos/numpy.svg" height="40" alt="NumPy" title="NumPy" />
-  <img src="assets/logos/scipy.svg" height="40" alt="SciPy" title="SciPy" />
-  <img src="assets/logos/matplotlib.svg" height="40" alt="Matplotlib" title="Matplotlib" />
-  <img src="assets/logos/seaborn.svg" height="40" alt="Seaborn" title="Seaborn" />
-  <img src="assets/logos/flask.svg" height="40" alt="Flask" title="Flask" />
-  <img src="assets/logos/docker.svg" height="40" alt="Docker" title="Docker" />
-  <img src="assets/logos/jupyter.svg" height="40" alt="Jupyter" title="Jupyter" />
+<p align="justify">
+  <img src="assets/logos/python.svg" height="40" alt="Python" title="Python" />&nbsp;
+  <img src="assets/logos/r.svg" height="40" alt="R" title="R" />&nbsp;
+  <img src="assets/logos/mysql.svg" height="40" alt="SQL" title="SQL" />&nbsp;
+  <img src="assets/logos/tensorflow.svg" height="40" alt="TensorFlow" title="TensorFlow" />&nbsp;
+  <img src="assets/logos/keras.svg" height="40" alt="Keras" title="Keras" />&nbsp;
+  <img src="assets/logos/scikitlearn.svg" height="40" alt="Scikit-Learn" title="Scikit-Learn" />&nbsp;
+  <img src="assets/logos/pytorch.svg" height="40" alt="PyTorch" title="PyTorch" />&nbsp;
+  <img src="assets/logos/pandas.svg" height="40" alt="Pandas" title="Pandas" />&nbsp;
+  <img src="assets/logos/numpy.svg" height="40" alt="NumPy" title="NumPy" />&nbsp;
+  <img src="assets/logos/scipy.svg" height="40" alt="SciPy" title="SciPy" />&nbsp;
+  <img src="assets/logos/matplotlib.svg" height="40" alt="Matplotlib" title="Matplotlib" />&nbsp;
+  <img src="assets/logos/seaborn.svg" height="40" alt="Seaborn" title="Seaborn" />&nbsp;
+  <img src="assets/logos/flask.svg" height="40" alt="Flask" title="Flask" />&nbsp;
+  <img src="assets/logos/docker.svg" height="40" alt="Docker" title="Docker" />&nbsp;
+  <img src="assets/logos/jupyter.svg" height="40" alt="Jupyter" title="Jupyter" />&nbsp;
   <img src="assets/logos/powerbi.svg" height="40" alt="Power BI" title="Power BI" />
 </p>
 
@@ -63,8 +63,6 @@ I am Navjinder Singh — a Data Scientist focused on building reliable machine-l
   <img src="assets/streak/streak.svg" alt="GitHub Streak" />
 </p>
 
-<sub>📊 Auto-updated daily by GitHub Actions — see <a href="#-workflows">workflows</a>.</sub>
-
 ---
 
 ### Contribution Activity
@@ -75,7 +73,7 @@ I am Navjinder Singh — a Data Scientist focused on building reliable machine-l
 
 ---
 
-### Snake Eating Contributions
+### Contributions
 
 <p align="center">
   <picture>
@@ -93,7 +91,7 @@ I am Navjinder Singh — a Data Scientist focused on building reliable machine-l
 
 ### Connect With Me
 
-<p align="center">
+<p align="justify">
   <a href="https://www.linkedin.com/in/navjindersingh" target="_blank"><img src="assets/logos/linkedin.svg" height="36" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;
   <a href="https://github.com/navjindersingh01" target="_blank"><img src="assets/logos/github.svg" height="36" alt="GitHub" title="GitHub" /></a>&nbsp;
   <a href="mailto:navjindersingh.in@gmail.com"><img src="assets/logos/gmail.svg" height="36" alt="Email" title="Email" /></a>&nbsp;
@@ -112,18 +110,5 @@ I am Navjinder Singh — a Data Scientist focused on building reliable machine-l
 <div align="center">
   <i>"Keep learning, keep shipping — small steps every day."</i>
 </div>
-
----
-
-### 🔄 Workflows
-
-This repository uses GitHub Actions to keep visual assets fresh:
-
-| Workflow | Schedule | Description |
-|----------|----------|-------------|
-| **Snake** | Daily at midnight UTC | Generates `output/github-contribution-grid-snake.svg` |
-| **Streak** | Daily at midnight UTC | Fetches latest streak stats to `assets/streak/streak.svg` |
-
-**Manual trigger:** Go to Actions tab → select workflow → Run workflow.
 
 <!-- Clean and professional layout; all assets served locally for reliability -->
