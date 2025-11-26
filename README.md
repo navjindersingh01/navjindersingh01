@@ -44,13 +44,6 @@ I am Navjinder Singh — a Data Scientist focused on building reliable machine-l
   <span><img src="assets/logos/powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI" /></span>
 </p>
 
----
-
-### GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navjindersingh01&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -59,20 +52,6 @@ I am Navjinder Singh — a Data Scientist focused on building reliable machine-l
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=navjindersingh01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true" alt="Contribution Graph" />
 </p>
-
----
-
-### Play Snake / Fun
-
-<p align="center">
-  <!-- Contribution grid snake (visual element preserved) -->
-  <img src="https://raw.githubusercontent.com/navjindersingh01/navjindersingh01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-  <br/>
-  <a href="https://playsnake.org/" target="_blank">Play a quick Snake game</a>
-</p>
-
----
 
 ### Connect With Me
 
