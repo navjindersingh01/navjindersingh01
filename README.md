@@ -36,9 +36,32 @@ I am Navjinder Singh — a Data Scientist focused on building reliable machine-l
 
 ### Skills & Technologies
 
-<div align="center">
-  <img src="assets/logos/python.svg" height="40" alt="Python" title="Python" />&nbsp;<img src="assets/logos/r.svg" height="40" alt="R" title="R" />&nbsp;<img src="assets/logos/mysql.svg" height="40" alt="SQL" title="SQL" />&nbsp;<img src="assets/logos/tensorflow.svg" height="40" alt="TensorFlow" title="TensorFlow" />&nbsp;<img src="assets/logos/keras.svg" height="40" alt="Keras" title="Keras" />&nbsp;<img src="assets/logos/scikitlearn.svg" height="40" alt="Scikit-Learn" title="Scikit-Learn" />&nbsp;<img src="assets/logos/pytorch.svg" height="40" alt="PyTorch" title="PyTorch" />&nbsp;<img src="assets/logos/pandas.svg" height="40" alt="Pandas" title="Pandas" />&nbsp;<img src="assets/logos/numpy.svg" height="40" alt="NumPy" title="NumPy" />&nbsp;<img src="assets/logos/scipy.svg" height="40" alt="SciPy" title="SciPy" />&nbsp;<img src="assets/logos/matplotlib.svg" height="40" alt="Matplotlib" title="Matplotlib" />&nbsp;<img src="assets/logos/seaborn.svg" height="40" alt="Seaborn" title="Seaborn" />&nbsp;<img src="assets/logos/flask.svg" height="40" alt="Flask" title="Flask" />&nbsp;<img src="assets/logos/docker.svg" height="40" alt="Docker" title="Docker" />&nbsp;<img src="assets/logos/jupyter.svg" height="40" alt="Jupyter" title="Jupyter" />&nbsp;<img src="assets/logos/powerbi.svg" height="40" alt="Power BI" title="Power BI" />
-</div>
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center"><img src="assets/logos/python.svg" height="40" alt="Python" title="Python" /></td>
+    <td align="center"><img src="assets/logos/r.svg" height="40" alt="R" title="R" /></td>
+    <td align="center"><img src="assets/logos/mysql.svg" height="40" alt="SQL" title="SQL" /></td>
+    <td align="center"><img src="assets/logos/tensorflow.svg" height="40" alt="TensorFlow" title="TensorFlow" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/logos/keras.svg" height="40" alt="Keras" title="Keras" /></td>
+    <td align="center"><img src="assets/logos/scikitlearn.svg" height="40" alt="Scikit-Learn" title="Scikit-Learn" /></td>
+    <td align="center"><img src="assets/logos/pytorch.svg" height="40" alt="PyTorch" title="PyTorch" /></td>
+    <td align="center"><img src="assets/logos/pandas.svg" height="40" alt="Pandas" title="Pandas" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/logos/numpy.svg" height="40" alt="NumPy" title="NumPy" /></td>
+    <td align="center"><img src="assets/logos/scipy.svg" height="40" alt="SciPy" title="SciPy" /></td>
+    <td align="center"><img src="assets/logos/matplotlib.svg" height="40" alt="Matplotlib" title="Matplotlib" /></td>
+    <td align="center"><img src="assets/logos/seaborn.svg" height="40" alt="Seaborn" title="Seaborn" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/logos/flask.svg" height="40" alt="Flask" title="Flask" /></td>
+    <td align="center"><img src="assets/logos/docker.svg" height="40" alt="Docker" title="Docker" /></td>
+    <td align="center"><img src="assets/logos/jupyter.svg" height="40" alt="Jupyter" title="Jupyter" /></td>
+    <td align="center"><img src="assets/logos/powerbi.svg" height="40" alt="Power BI" title="Power BI" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -76,9 +99,21 @@ I am Navjinder Singh — a Data Scientist focused on building reliable machine-l
 
 ### Connect With Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/navjindersingh" target="_blank"><img src="assets/logos/linkedin.svg" height="36" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;<a href="https://github.com/navjindersingh01" target="_blank"><img src="assets/logos/github.svg" height="36" alt="GitHub" title="GitHub" /></a>&nbsp;<a href="mailto:navjindersingh.in@gmail.com"><img src="assets/logos/gmail.svg" height="36" alt="Email" title="Email" /></a>&nbsp;<a href="https://leetcode.com/u/navjindersingh01/" target="_blank"><img src="assets/logos/leetcode.svg" height="36" alt="LeetCode" title="LeetCode" /></a>&nbsp;<a href="https://www.geeksforgeeks.org/user/navjindersingh01/" target="_blank"><img src="assets/logos/geeksforgeeks.svg" height="36" alt="GeeksforGeeks" title="GeeksforGeeks" /></a>&nbsp;<a href="https://stackoverflow.com/users/31804194/jinder" target="_blank"><img src="assets/logos/stackoverflow.svg" height="36" alt="Stack Overflow" title="Stack Overflow" /></a>&nbsp;<a href="https://codeforces.com/profile/navjindersingh01" target="_blank"><img src="assets/logos/codeforces.svg" height="36" alt="Codeforces" title="Codeforces" /></a>&nbsp;<a href="https://www.codechef.com/users/navjindersingh" target="_blank"><img src="assets/logos/codechef.svg" height="36" alt="CodeChef" title="CodeChef" /></a>&nbsp;<a href="https://www.hackerrank.com/profile/singhnavjinder11" target="_blank"><img src="assets/logos/hackerrank.svg" height="36" alt="HackerRank" title="HackerRank" /></a>&nbsp;<a href="https://codolio.com/profile/navjindersingh01" target="_blank"><img src="assets/logos/codolio.svg" height="36" alt="Codolio" title="Codolio" /></a>&nbsp;<a href="https://discord.gg/WnhPm6N7mE" target="_blank"><img src="assets/logos/discord.svg" height="36" alt="Discord" title="Discord" /></a>
-</div>
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/navjindersingh" target="_blank"><img src="assets/logos/linkedin.svg" height="36" alt="LinkedIn" title="LinkedIn" /></a></td>
+    <td align="center"><a href="https://github.com/navjindersingh01" target="_blank"><img src="assets/logos/github.svg" height="36" alt="GitHub" title="GitHub" /></a></td>
+    <td align="center"><a href="mailto:navjindersingh.in@gmail.com"><img src="assets/logos/gmail.svg" height="36" alt="Email" title="Email" /></a></td>
+    <td align="center"><a href="https://leetcode.com/u/navjindersingh01/" target="_blank"><img src="assets/logos/leetcode.svg" height="36" alt="LeetCode" title="LeetCode" /></a></td>
+    <td align="center"><a href="https://www.geeksforgeeks.org/user/navjindersingh01/" target="_blank"><img src="assets/logos/geeksforgeeks.svg" height="36" alt="GeeksforGeeks" title="GeeksforGeeks" /></a></td>
+    <td align="center"><a href="https://stackoverflow.com/users/31804194/jinder" target="_blank"><img src="assets/logos/stackoverflow.svg" height="36" alt="Stack Overflow" title="Stack Overflow" /></a></td>
+    <td align="center"><a href="https://codeforces.com/profile/navjindersingh01" target="_blank"><img src="assets/logos/codeforces.svg" height="36" alt="Codeforces" title="Codeforces" /></a></td>
+    <td align="center"><a href="https://www.codechef.com/users/navjindersingh" target="_blank"><img src="assets/logos/codechef.svg" height="36" alt="CodeChef" title="CodeChef" /></a></td>
+    <td align="center"><a href="https://www.hackerrank.com/profile/singhnavjinder11" target="_blank"><img src="assets/logos/hackerrank.svg" height="36" alt="HackerRank" title="HackerRank" /></a></td>
+    <td align="center"><a href="https://codolio.com/profile/navjindersingh01" target="_blank"><img src="assets/logos/codolio.svg" height="36" alt="Codolio" title="Codolio" /></a></td>
+    <td align="center"><a href="https://discord.gg/WnhPm6N7mE" target="_blank"><img src="assets/logos/discord.svg" height="36" alt="Discord" title="Discord" /></a></td>
+  </tr>
+</table>
 
 ---
 
