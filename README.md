@@ -25,7 +25,7 @@ I am Navjinder Singh — a Data Scientist focused on building reliable machine-l
 
 ### Skills & Technologies
 
-<p align="center" style="text-align: justify;">
+<p align="center">
   <span><img src="assets/logos/python.svg" width="48" height="48" alt="Python" title="Python" /></span>
   <span><img src="assets/logos/r.svg" width="48" height="48" alt="R" title="R" /></span>
   <span><img src="assets/logos/mysql.svg" width="48" height="48" alt="SQL" title="SQL" /></span>
@@ -76,7 +76,7 @@ I am Navjinder Singh — a Data Scientist focused on building reliable machine-l
 
 ### Connect With Me
 
-<p align="center" style="text-align: justify;">
+<p align="center">
   <span><a href="https://www.linkedin.com/in/navjindersingh" target="_blank"><img src="assets/logos/linkedin.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn" /></a></span>
   <span><a href="https://github.com/navjindersingh01" target="_blank"><img src="assets/logos/github.svg" width="48" height="48" alt="GitHub" title="GitHub" /></a></span>
   <span><a href="mailto:navjindersingh.in@gmail.com"><img src="assets/logos/gmail.svg" width="48" height="48" alt="Email" title="Email" /></a></span>
